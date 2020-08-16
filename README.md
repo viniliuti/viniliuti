@@ -1,14 +1,15 @@
-<h1 align="center">Hello 👋, I'm Vinicio Liuti</h1>
-<h3 align="center">A attentive Full Stack developer from Brazil</h3>
-  
-  
-📫 You can reach me through **vinicioandre@gmail.com**
 
-<p >
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniliuti&layout=compact&hide=html,css" alt="viniliuti" />
+<h1>Hello 👋, I'm Vinicio Liuti</h1>
+<h3>A attentive Full Stack developer from Brazil</h3>
+  
+📫 You can reach me through **vinicioandre@gmail.com** 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin viniliuti" height="20" width="20" /> Or [Linkedin](https://linkedin.com/in/viniliuti)
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniliuti&layout=compact&hide=html,css" alt="viniliuti" />
 </p>
 
-<p align="left">
+<p>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 <img src="https://simpleicons.org/icons/microsoftsqlserver.svg" alt="mssql" width="40" height="40"/>  
 <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
@@ -20,8 +21,4 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </p>
 
-<p >
-<a href="https://linkedin.com/in/viniliuti" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="viniliuti" height="30" width="30" />
-</a>
-</p>
+
