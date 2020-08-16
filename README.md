@@ -1,8 +1,12 @@
-<h1 align="center">Hi 👋, I'm Vinicio Liuti</h1>
+<h1 align="center">Hello 👋, I'm Vinicio Liuti</h1>
 <h3 align="center">A attentive Full Stack developer from Brazil</h3>
   
   
 📫 You can reach me through **vinicioandre@gmail.com**
+
+<p >
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniliuti&layout=compact&hide=html,css" alt="viniliuti" />
+</p>
 
 <p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
@@ -14,10 +18,6 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>  
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</p>
-
-<p >
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniliuti&layout=compact&hide=html,css" alt="viniliuti" />
 </p>
 
 <p >
